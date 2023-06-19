@@ -43,7 +43,16 @@
   </ul>
   <p>These are just a glimpse of the incredible projects we have planned for the future. Stay tuned and follow us on our social media channels for updates and announcements. Together, we will shape the technological landscape and build a better tomorrow.</p>
 </section>
-
+<section>
+    <h2>Know the Owners of the Organisation</h2>
+  <div class='contrainer'>
+    <p>Ravin D <a href='https://www.linkedin.com/in/ravin-d-035922216/'>LinkedIn</a> <a href='https://github.com/ravin-d-27'>GitHub</a></p>
+  <p>Akshwin T <a href='https://www.linkedin.com/in/akshwin-t-681395219/'>LinkedIn</a> <a href='https://github.com/akshwin'>GitHub</a></p>
+  <p>Vinay Deep Jaiswal <a href='https://www.linkedin.com/in/vinay-deep-957a45245/'>LinkedIn</a> <a href='https://github.com/Vinay25deep'>GitHub</a></p>
+  <p>Sriram R <a href='https://www.linkedin.com/in/sriram-ramakrishnan-110347224/'>LinkedIn</a> <a href='https://github.com/Sriram-Ramakrishnan'>GitHub</a></p>
+</div>
+  <p>Contact us for future collaborations</p>
+  </section>
   <section>
     <h2>Get Involved</h2>
     <p>Are you passionate about open-source and making a positive impact? Join our community of like-minded individuals and contribute to projects that make a difference.</p>
